@@ -1,0 +1,30 @@
+{
+  "user_id": "15",
+  "predictions": [
+    {
+      "id": "1512",
+      "name": "World of Apu, The (Apur Sansar) (1959)",
+      "rating": 4.287
+    },
+    {
+      "id": "853",
+      "name": "Braindead (1992)",
+      "rating": 4.285
+    },
+    {
+      "id": "530",
+      "name": "Man Who Would Be King, The (1975)",
+      "rating": 4.242
+    },
+    {
+      "id": "837",
+      "name": "Meet John Doe (1941)",
+      "rating": 4.043
+    },
+    {
+      "id": "198",
+      "name": "Nikita (La Femme Nikita) (1990)",
+      "rating": 4.041
+    }
+  ]
+}
