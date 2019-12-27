@@ -1,12 +1,17 @@
 {
-  "weight": 12084,
-  "volume": 11.899999999999999,
-  "price": 4210,
+  "weight": 11695,
+  "volume": 12.0,
+  "price": 4098,
   "items": [
     {
       "weight": 486,
       "volume": 0.4,
       "price": 385
+    },
+    {
+      "weight": 182,
+      "volume": 0.6,
+      "price": 283
     },
     {
       "weight": 839,
@@ -24,14 +29,14 @@
       "price": 174
     },
     {
+      "weight": 1082,
+      "volume": 0.7,
+      "price": 186
+    },
+    {
       "weight": 1119,
       "volume": 0.5,
       "price": 264
-    },
-    {
-      "weight": 539,
-      "volume": 1.1,
-      "price": 316
     },
     {
       "weight": 1173,
@@ -39,9 +44,14 @@
       "price": 351
     },
     {
-      "weight": 1610,
+      "weight": 809,
+      "volume": 1.2,
+      "price": 336
+    },
+    {
+      "weight": 779,
       "volume": 1.0,
-      "price": 314
+      "price": 180
     },
     {
       "weight": 415,
@@ -59,9 +69,9 @@
       "price": 112
     },
     {
-      "weight": 789,
-      "volume": 1.1,
-      "price": 335
+      "weight": 685,
+      "volume": 0.4,
+      "price": 103
     },
     {
       "weight": 325,
@@ -72,11 +82,6 @@
       "weight": 348,
       "volume": 1.0,
       "price": 246
-    },
-    {
-      "weight": 988,
-      "volume": 0.6,
-      "price": 235
     }
   ]
 }
